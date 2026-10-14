@@ -1,0 +1,17 @@
+# Ignore everything by default, then allow Markdown only.
+# This repository holds assessment texts, not code or candidate submissions.
+*
+
+# Keep directories traversable so the rules below can match inside them.
+!*/
+
+# Tracked content
+!*.md
+!.gitignore
+
+# Never track these, even if they end in .md
+.DS_Store
+.env
+.env.*
+**/node_modules/
+**/__pycache__/
