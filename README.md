@@ -19,7 +19,7 @@ More challenges are added here as new roles open. Each folder is independent: no
 3. Expected effort is **about 8 focused hours**. The deadline is deliberately longer than the effort so you can fit the work around your schedule.
 4. You build your solution in **your own GitHub repository** (public, or private with read access granted to the MDPI accounts we provide). Do not fork or open pull requests against this repository.
 5. You send the repository URL to your MDPI contact before the deadline, together with any setup notes reviewers need.
-6. Shortlisted candidates are invited to a technical interview built around their submission.
+6. You will be invited to a technical interview built around the submission.
 
 Please do not rewrite or force-push the submitted history after the deadline unless MDPI asks you to.
 
